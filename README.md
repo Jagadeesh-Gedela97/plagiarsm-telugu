@@ -26,3 +26,10 @@ This project is a web-based plagiarism detection system designed to analyze Telu
 5. Similarity scores are calculated and displayed.
 
 ## Project Structure
+telugu-ai-plagiarism-detection
+│
+├── app.py
+├── requirements.txt
+├── templates
+├── static
+└── README.md
