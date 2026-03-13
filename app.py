@@ -196,7 +196,7 @@ def extract_telugu_text(url):
 # -----------------------------
 # MODEL LOAD (once at startup)
 # -----------------------------
-model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+model = SentenceTransformer("paraphrase-multilingual-MiniLM-L3-v2")
 
 # -----------------------------
 # JACCARD
